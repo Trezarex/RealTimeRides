@@ -1,4 +1,4 @@
-## Smart City Data-Engineering Project
+## Real Time Rides Data-Engineering Project
 Get all the details about the vehicle while travelling from destination to source in realtime
 
 ## System Architecture
